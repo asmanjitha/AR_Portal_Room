@@ -1,4 +1,0 @@
-repository "AR_PORTA_ANDRE_01@asmanjitha@cloud"
-  path "/"
-    br "/main"
-    co "/main"
